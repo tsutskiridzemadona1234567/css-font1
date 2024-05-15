@@ -1,6 +1,6 @@
 @font-face{
   font-family: "chemi font";  
-  src: url("fonts/OldStandardTT-Regular.ttf");
+  src: url("./OldStandardTT-Regular.ttf");
 }
 p{
     font-family: "chemi font";
